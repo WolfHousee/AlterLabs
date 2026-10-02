@@ -1,0 +1,138 @@
+{
+  "capturedAt": "2026-10-02T23:00:58.431Z",
+  "source": "https://alterlabs.in/",
+  "files": [
+    {
+      "url": "https://alterlabs.in/solutions/voice-support/",
+      "path": "scripts/workforce/reference/service.html",
+      "sha256": "f53937b92ba4ba6b68c83639b374484dfea6534639af810505643e12c0c4dd90",
+      "bytes": 19300
+    },
+    {
+      "url": "https://alterlabs.in/assets/inner-B6vBZ7jj.css",
+      "path": "workforce/assets/inner-B6vBZ7jj.css",
+      "sha256": "adb198dfdf53df6b2a7a0431e7db32cb55ecd8d68b57ec6ecb7c0090ee844ba8",
+      "bytes": 62873
+    },
+    {
+      "url": "https://alterlabs.in/assets/figtree-latin-ext-300-normal-DwPJS_xR.woff2",
+      "path": "workforce/assets/figtree-latin-ext-300-normal-DwPJS_xR.woff2",
+      "sha256": "d2b3a997ee72675318eb50a8887f2901cd9cd8cbb2cc44a788e3db0a3b9aee55",
+      "bytes": 5964
+    },
+    {
+      "url": "https://alterlabs.in/assets/figtree-latin-ext-300-normal-DoS2vUKG.woff",
+      "path": "workforce/assets/figtree-latin-ext-300-normal-DoS2vUKG.woff",
+      "sha256": "9a21b3ed130e64f672be9db8679ed055ea7bc6168ed047088677d87879d8bb97",
+      "bytes": 8172
+    },
+    {
+      "url": "https://alterlabs.in/assets/figtree-latin-300-normal-C9xDoCWy.woff2",
+      "path": "workforce/assets/figtree-latin-300-normal-C9xDoCWy.woff2",
+      "sha256": "3a8ad337223d2760675984a6cec88cb26e2de4f2699a0f5b6a3650ba0fa2d2ed",
+      "bytes": 10696
+    },
+    {
+      "url": "https://alterlabs.in/assets/figtree-latin-300-normal-BzOoftBZ.woff",
+      "path": "workforce/assets/figtree-latin-300-normal-BzOoftBZ.woff",
+      "sha256": "9a9623cc05e59d0c0ec6963df55ab5e4cfb40b5733004bd957658d777be3ee85",
+      "bytes": 14324
+    },
+    {
+      "url": "https://alterlabs.in/assets/figtree-latin-ext-400-normal-CXAzuTZb.woff2",
+      "path": "workforce/assets/figtree-latin-ext-400-normal-CXAzuTZb.woff2",
+      "sha256": "3f58126100ed4da09c54adcfb8fa9f642be69101d1e18dc4c0a5489ee9b904c5",
+      "bytes": 6188
+    },
+    {
+      "url": "https://alterlabs.in/assets/figtree-latin-ext-400-normal-Gbh-3PTk.woff",
+      "path": "workforce/assets/figtree-latin-ext-400-normal-Gbh-3PTk.woff",
+      "sha256": "490b9a9482d8c192ef2009bf13ceb657bc28133a45267b31d8ccbacb742ee979",
+      "bytes": 8336
+    },
+    {
+      "url": "https://alterlabs.in/assets/figtree-latin-400-normal-g7Dtegnw.woff2",
+      "path": "workforce/assets/figtree-latin-400-normal-g7Dtegnw.woff2",
+      "sha256": "8f98dd642986f1fa39c45b89665a57372897c235b36028e0e4a136e43dc5f8ab",
+      "bytes": 11384
+    },
+    {
+      "url": "https://alterlabs.in/assets/figtree-latin-400-normal-BD4aNku5.woff",
+      "path": "workforce/assets/figtree-latin-400-normal-BD4aNku5.woff",
+      "sha256": "e75c125ab5ed44c6e11792d60d8e414ab905b3b46712919d977cf54aaf3e64a2",
+      "bytes": 15036
+    },
+    {
+      "url": "https://alterlabs.in/assets/figtree-latin-ext-500-normal-Du0rIuHj.woff2",
+      "path": "workforce/assets/figtree-latin-ext-500-normal-Du0rIuHj.woff2",
+      "sha256": "65f0ca6dc939a76e0d63fd7b1fae1039d0a8963d2ce68a00ec20122a452e3b08",
+      "bytes": 6156
+    },
+    {
+      "url": "https://alterlabs.in/assets/figtree-latin-ext-500-normal-BOEJvrb_.woff",
+      "path": "workforce/assets/figtree-latin-ext-500-normal-BOEJvrb_.woff",
+      "sha256": "f9ccde25ff203676fc34fdcdbfdd3e3c595d909268ca7db1d6a4567363e49f99",
+      "bytes": 8320
+    },
+    {
+      "url": "https://alterlabs.in/assets/figtree-latin-500-normal-BWnGEVsr.woff2",
+      "path": "workforce/assets/figtree-latin-500-normal-BWnGEVsr.woff2",
+      "sha256": "953a6a4294b1205a1b4d4b9e5529478e8c9e1c5a67a9aa24a551414cd85b6f51",
+      "bytes": 11432
+    },
+    {
+      "url": "https://alterlabs.in/assets/figtree-latin-500-normal-B_yy1phn.woff",
+      "path": "workforce/assets/figtree-latin-500-normal-B_yy1phn.woff",
+      "sha256": "19f9249047bdb3ee51cc91472eb7792c899b042b5e76818969e8f12ae5117a79",
+      "bytes": 15040
+    },
+    {
+      "url": "https://alterlabs.in/assets/figtree-latin-ext-600-normal-DJlfifZj.woff2",
+      "path": "workforce/assets/figtree-latin-ext-600-normal-DJlfifZj.woff2",
+      "sha256": "066f04a662a3b3f740f2e711548003e12c2475375e58a59477aa440c8fd03a17",
+      "bytes": 6240
+    },
+    {
+      "url": "https://alterlabs.in/assets/figtree-latin-ext-600-normal-CQqsimlV.woff",
+      "path": "workforce/assets/figtree-latin-ext-600-normal-CQqsimlV.woff",
+      "sha256": "7af7d708c207b9bb173a1c37c23ec966c1ee965fe59e150f30be3479aded0ab8",
+      "bytes": 8360
+    },
+    {
+      "url": "https://alterlabs.in/assets/figtree-latin-600-normal-Cv_xCTDl.woff2",
+      "path": "workforce/assets/figtree-latin-600-normal-Cv_xCTDl.woff2",
+      "sha256": "367d713287918784702563518f59239989da815c80d3c7337686b9816635a08b",
+      "bytes": 11544
+    },
+    {
+      "url": "https://alterlabs.in/assets/figtree-latin-600-normal-BM_oTo4n.woff",
+      "path": "workforce/assets/figtree-latin-600-normal-BM_oTo4n.woff",
+      "sha256": "868dd01020c49c3ac3fab667974b5c0a61ea83b517fb58bdd140ef100ad3f4ef",
+      "bytes": 15212
+    },
+    {
+      "url": "https://alterlabs.in/analytics-events.js",
+      "path": "workforce/analytics-events.js",
+      "sha256": "f4b5bf7578aba3a7c182488b6261d4a3a37ee62bb43537ae11def77a86eafb42",
+      "bytes": 3572
+    },
+    {
+      "url": "https://alterlabs.in/favicon.svg",
+      "path": "workforce/favicon.svg",
+      "sha256": "0f9b9bb353143aa105548728b66b478ec3916149033b51b1af4639ac6d2975bc",
+      "bytes": 666
+    },
+    {
+      "url": "https://alterlabs.in/favicon-32.png",
+      "path": "workforce/favicon-32.png",
+      "sha256": "34ddad6d0f6815683455cba60252ad792ef4e9c9463f9c38caa9c93c815b6341",
+      "bytes": 1054
+    },
+    {
+      "url": "https://alterlabs.in/apple-touch-icon.png",
+      "path": "workforce/apple-touch-icon.png",
+      "sha256": "6dcb8c243b259b698b58ce206375fc6aac3429dad15300cc8e7dbf2221cf98e6",
+      "bytes": 7348
+    }
+  ]
+}

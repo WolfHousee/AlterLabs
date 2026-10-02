@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://workforce.alterlabs.in/sitemap.xml

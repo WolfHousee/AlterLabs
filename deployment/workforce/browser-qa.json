@@ -1,0 +1,249 @@
+{
+  "checkedAt": "2026-10-02T23:13:19.964Z",
+  "mobile390": [
+    {
+      "h1s": 1,
+      "links": 0,
+      "scrollWidth": 376,
+      "title": "Alter Workforce | Hire Virtual Employees for Your Business",
+      "url": "/",
+      "width": 390
+    },
+    {
+      "h1s": 1,
+      "links": 0,
+      "scrollWidth": 376,
+      "title": "Virtual Content Creator | ₹7,999/month | Alter Workforce",
+      "url": "/virtual-content-creator/",
+      "width": 390
+    },
+    {
+      "h1s": 1,
+      "links": 0,
+      "scrollWidth": 376,
+      "title": "Virtual Engineer | ₹14,999/month | Alter Workforce",
+      "url": "/virtual-engineer/",
+      "width": 390
+    },
+    {
+      "h1s": 1,
+      "links": 0,
+      "scrollWidth": 376,
+      "title": "Virtual Operations Manager | ₹9,999/month | Alter Workforce",
+      "url": "/virtual-operations-manager/",
+      "width": 390
+    },
+    {
+      "h1s": 1,
+      "links": 0,
+      "scrollWidth": 376,
+      "title": "Virtual Team Leader | ₹12,999/month | Alter Workforce",
+      "url": "/virtual-team-leader/",
+      "width": 390
+    },
+    {
+      "h1s": 1,
+      "links": 0,
+      "scrollWidth": 376,
+      "title": "Virtual Sales Agent — Chat | ₹6,999/month | Alter Workforce",
+      "url": "/virtual-sales-agent-chat/",
+      "width": 390
+    },
+    {
+      "h1s": 1,
+      "links": 0,
+      "scrollWidth": 376,
+      "title": "Virtual Support Agent — Chat | ₹5,999/month | Alter Workforce",
+      "url": "/virtual-support-agent-chat/",
+      "width": 390
+    },
+    {
+      "h1s": 1,
+      "links": 0,
+      "scrollWidth": 376,
+      "title": "Virtual Sales Agent — Voice | ₹9,999/month | Alter Workforce",
+      "url": "/virtual-sales-agent-voice/",
+      "width": 390
+    },
+    {
+      "h1s": 1,
+      "links": 0,
+      "scrollWidth": 376,
+      "title": "Virtual Support Agent — Voice | ₹7,999/month | Alter Workforce",
+      "url": "/virtual-support-agent-voice/",
+      "width": 390
+    }
+  ],
+  "narrow320": [
+    {
+      "overflow": false,
+      "path": "/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "path": "/virtual-content-creator/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "path": "/virtual-engineer/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "path": "/virtual-operations-manager/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "path": "/virtual-team-leader/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "path": "/virtual-sales-agent-chat/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "path": "/virtual-support-agent-chat/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "path": "/virtual-sales-agent-voice/",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "path": "/virtual-support-agent-voice/",
+      "width": 320
+    }
+  ],
+  "desktop1440": [
+    {
+      "overflow": false,
+      "path": "/",
+      "width": 1440
+    },
+    {
+      "overflow": false,
+      "path": "/virtual-content-creator/",
+      "width": 1440
+    },
+    {
+      "overflow": false,
+      "path": "/virtual-engineer/",
+      "width": 1440
+    },
+    {
+      "overflow": false,
+      "path": "/virtual-operations-manager/",
+      "width": 1440
+    },
+    {
+      "overflow": false,
+      "path": "/virtual-team-leader/",
+      "width": 1440
+    },
+    {
+      "overflow": false,
+      "path": "/virtual-sales-agent-chat/",
+      "width": 1440
+    },
+    {
+      "overflow": false,
+      "path": "/virtual-support-agent-chat/",
+      "width": 1440
+    },
+    {
+      "overflow": false,
+      "path": "/virtual-sales-agent-voice/",
+      "width": 1440
+    },
+    {
+      "overflow": false,
+      "path": "/virtual-support-agent-voice/",
+      "width": 1440
+    }
+  ],
+  "analytics": {
+    "event": "workforce_role_compare",
+    "observed": true
+  },
+  "accessibility": [
+    {
+      "route": "/",
+      "violations": [],
+      "passes": 22,
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "route": "/virtual-content-creator/",
+      "violations": [],
+      "passes": 18,
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "route": "/virtual-engineer/",
+      "violations": [],
+      "passes": 18,
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "route": "/virtual-operations-manager/",
+      "violations": [],
+      "passes": 18,
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "route": "/virtual-team-leader/",
+      "violations": [],
+      "passes": 18,
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "route": "/virtual-sales-agent-chat/",
+      "violations": [],
+      "passes": 18,
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "route": "/virtual-support-agent-chat/",
+      "violations": [],
+      "passes": 18,
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "route": "/virtual-sales-agent-voice/",
+      "violations": [],
+      "passes": 18,
+      "incomplete": [
+        "color-contrast"
+      ]
+    },
+    {
+      "route": "/virtual-support-agent-voice/",
+      "violations": [],
+      "passes": 18,
+      "incomplete": [
+        "color-contrast"
+      ]
+    }
+  ]
+}

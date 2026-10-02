@@ -1,0 +1,69 @@
+{
+  "source": "https://alterlabs.in",
+  "capturedAt": "2026-10-02T23:07:58.485Z",
+  "files": [
+    {
+      "route": "/",
+      "file": "deployment/workforce/primary/index.html",
+      "before_sha256": "c29aff2b506e43d71516392f86aa821d7dacb8bd4c042a083a7e3e001c107302",
+      "after_sha256": "ee97cb5fddfc07f60eda8853189d48178c1fe63a3d2194ff59f0eaf0c2e1539e",
+      "changes": "footer product link"
+    },
+    {
+      "route": "/products/",
+      "file": "deployment/workforce/primary/products/index.html",
+      "before_sha256": "d29c6533b493571a722d386b9dbde35b5c8ff2fd21553b00878ed7381e93b257",
+      "after_sha256": "f2d3a0def4b5561e44b382f00f73615712862f7c04881b4eeb932d0a26651160",
+      "changes": "native product card and footer link"
+    },
+    {
+      "route": "/bns/",
+      "file": "deployment/workforce/primary/bns/index.html",
+      "before_sha256": "90ce2e365da300289fd9eeefdd3776cd0fad73679d2acc48cae6183bd05d884e",
+      "after_sha256": "3f3b0479f17020d9ae5a6d4b8021b72ffcd675a67923590fa11a938a127dbfa7",
+      "changes": "contextual product section and footer link"
+    },
+    {
+      "route": "/solutions/ai-automation/",
+      "file": "deployment/workforce/primary/solutions/ai-automation/index.html",
+      "before_sha256": "6c8c666e22a3623c25ec64eb1414b320f79cf081cb1e77d3c68ddd246bd33426",
+      "after_sha256": "7561705275f91e8171c598daacb94d5732a0c898a2985365fd333bcb3ca55af8",
+      "changes": "contextual product section and footer link"
+    },
+    {
+      "route": "/solutions/business-systems/",
+      "file": "deployment/workforce/primary/solutions/business-systems/index.html",
+      "before_sha256": "c8f2aa7603b3838ff3904a4ededbb26e2013d54891e5c8937b883c1cbd343dbf",
+      "after_sha256": "6fdd52a1009f8fc0f0e7b563d6b32c5281fcaf9aaffcfa36cbcc878713ec820e",
+      "changes": "contextual product section and footer link"
+    },
+    {
+      "route": "/solutions/ai-chatbot/",
+      "file": "deployment/workforce/primary/solutions/ai-chatbot/index.html",
+      "before_sha256": "de7cbba0bfc35c2cf9374314b8a37ecb32554d22fcf83baa969f4809e8f67d92",
+      "after_sha256": "ab857ad5d282ff4f000e4cd247ee995b598f0bb4793357a1f3642fa59a7f7263",
+      "changes": "contextual product section and footer link"
+    },
+    {
+      "route": "/solutions/voice-support/",
+      "file": "deployment/workforce/primary/solutions/voice-support/index.html",
+      "before_sha256": "f53937b92ba4ba6b68c83639b374484dfea6534639af810505643e12c0c4dd90",
+      "after_sha256": "20a6acee1e308dd65d22c67ec8b7c59aa0254ce7df9ef4ddd4ffc89be64e867c",
+      "changes": "contextual product section and footer link"
+    },
+    {
+      "route": "/products/crm/",
+      "file": "deployment/workforce/primary/products/crm/index.html",
+      "before_sha256": "dbe1eefbb981d33a3cd1d3b724d3b04870e78ae12d6c41f5253be7bccd39e3b5",
+      "after_sha256": "80942f19d1f9ed28e238217e4192c1cf21f17b76b756fc72b1a37c2b45832448",
+      "changes": "contextual product section and footer link"
+    },
+    {
+      "route": "/products/lms/",
+      "file": "deployment/workforce/primary/products/lms/index.html",
+      "before_sha256": "90e1b281a273397e4abac973348ce299ef1f5c6e3ed14c552cab75340b49f42f",
+      "after_sha256": "6fbbc0e55a6fbdfef494dff70b3296bd20e0dd94320158ce4795723019c63fd9",
+      "changes": "contextual product section and footer link"
+    }
+  ]
+}

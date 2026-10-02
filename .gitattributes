@@ -1,0 +1,8 @@
+workforce/** -text
+scripts/workforce/reference/** -text
+deployment/workforce/primary/** -text
+scripts/workforce/*.mjs text eol=lf
+deployment/workforce/*.sh text eol=lf
+deployment/workforce/*.py text eol=lf
+deployment/workforce/*.json text eol=lf
+deployment/workforce/*.md text eol=lf

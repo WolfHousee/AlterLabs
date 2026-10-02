@@ -9,7 +9,10 @@
     "generate:insights": "node scripts/generate-insights.mjs",
     "generate:pricing": "node scripts/generate-pricing-blogs.mjs",
     "generate:audit-expansion": "node scripts/generate-audit-expansion.mjs",
-    "validate": "node scripts/validate-site.mjs"
+    "validate": "node scripts/validate-site.mjs",
+    "build:workforce": "node scripts/workforce/build.mjs",
+    "validate:workforce": "node scripts/workforce/validate.mjs",
+    "preview:workforce": "node scripts/workforce/preview.mjs"
   },
   "engines": {
     "node": ">=18"

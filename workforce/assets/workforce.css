@@ -1,0 +1,10 @@
+/* Workforce-only content spacing. Colors, type, panels, buttons and responsive
+   shell are the exact captured production AlterLabs inner-page stylesheet. */
+.wf-disclosure{margin-top:16px;color:var(--ip-copy);font-size:15px;line-height:1.6;max-width:64ch}
+.wf-price{margin-top:24px;color:var(--color-text-primary);font-family:var(--font-display);font-size:30px;font-weight:500;line-height:1.35}
+.wf-price span{display:block;font-family:var(--font-body);font-size:15px;font-weight:400;color:var(--ip-copy)}
+.wf-steps{padding-left:1.25em;display:grid;gap:16px}
+.ip-card .wf-price{font-size:26px}
+.ip-plan .ip-prose{margin-top:20px}
+.ip-plan .ip-btn{white-space:normal;text-align:center}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}

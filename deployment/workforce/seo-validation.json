@@ -1,0 +1,21 @@
+{
+  "verifiedAt": "2026-10-02T23:14:23.936Z",
+  "pages": 9,
+  "uniqueTitles": 9,
+  "uniqueDescriptions": 9,
+  "sitemapUrls": 9,
+  "liveAssetHashesVerified": 22,
+  "checks": [
+    "self-canonicals",
+    "lang en-IN",
+    "one H1",
+    "indexable HTML",
+    "visible FAQ and matching schema",
+    "INR prices",
+    "human disclosure",
+    "usage disclosure",
+    "internal links",
+    "live analytics and conversion targets",
+    "no fabricated reviews or availability"
+  ]
+}
