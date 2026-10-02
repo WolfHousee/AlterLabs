@@ -36,6 +36,10 @@ server {
 NGINX
 if ! nginx -t; then cp -p "$BACKUP" "$CONF"; nginx -t; exit 3; fi
 systemctl reload nginx
-curl --fail --silent --show-error --resolve workforce.alterlabs.in:443:127.0.0.1 https://workforce.alterlabs.in/ -o /tmp/workforce-https-probe.html
+for attempt in {1..10}; do
+  if curl --fail --silent --show-error --resolve workforce.alterlabs.in:443:127.0.0.1 https://workforce.alterlabs.in/ -o /tmp/workforce-https-probe.html; then break; fi
+  test "$attempt" -lt 10 || exit 4
+  sleep 1
+done
 grep -q 'https://workforce.alterlabs.in/' /tmp/workforce-https-probe.html
 echo WORKFORCE_HTTPS_VERIFIED

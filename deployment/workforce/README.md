@@ -28,7 +28,15 @@ The smallest deployment uses a separate nginx document root at `/var/www/workfor
 
 Deploy through the already-authenticated AWS SSM path. The package is kept in the existing `alterlabs-prod-origin-124215944549` release bucket. Never run credential/login commands.
 
+The EC2 instance role cannot read this release bucket. The launch used a 15-minute signed S3 download, transferred inside the SSM command and verified against the archive digest before extraction. Generate download URLs with the founder-refreshed session; keep them out of logs and repository files. Both deployment probes retry during nginx's graceful reload.
+
+The live release is `workforce-dae5813-20261003` (archive SHA-256 `b54c2143d906c57d79564e81d69f46b0764abedd08d1e445e9bcb616069d4312`). The initial nine-page primary backup is `/var/www/workforce-releases/primary-backup-20261002T232642Z`. The certificate expires 31 December 2026 and uses the host's existing Certbot renewal timer. `live-validation.json` records the 47 public response/hash checks and genuine 404/HTTPS redirect results.
+
+For primary-page rollback, compare each current digest with its integration manifest `after_sha256` before restoring its saved page; stop if a peer has deployed new content. Restore only the nine manifest paths, then verify their `before_sha256` values. To remove the extension route, move its dedicated nginx configuration to a backup outside `conf.d`, run `nginx -t`, and reload. Keep the release and primary backup for recovery. Do not restore this repository's legacy root over production.
+
 The Google Search Console domain property `alterlabs.in` covers the subdomain. Submit the absolute sitemap URL and request each of the nine pages through URL Inspection. Submission is not proof of indexing. Record Google's exact responses and any quotas or blockers separately.
+
+Launch receipt: Google accepted all nine individual URLs into its priority crawl queue. The sitemap submission was accepted twice, but its current processing status remains **Couldn't fetch / Sitemap could not be read**, with zero discovered pages. Public HTTPS GET/HEAD and a Googlebot-user-agent probe return 200 with valid XML; Google and Cloudflare public resolvers return the expected A record. The cause of Google's processing status is unverified. No page is claimed indexed. See `indexing-receipt.json` for each accepted URL and timestamp.
 
 ## Validation limits
 

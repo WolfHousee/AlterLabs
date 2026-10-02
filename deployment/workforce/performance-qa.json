@@ -1,0 +1,123 @@
+{
+  "verifiedAt": "2026-10-02T23:30:03.948Z",
+  "environment": "Desktop Chrome, default network; navigation samples, not lab scores or field Core Web Vitals",
+  "rows": [
+    {
+      "url": "https://workforce.alterlabs.in/",
+      "fonts": "loaded",
+      "navigation": [
+        {
+          "responseMs": 20.899999991059303,
+          "domReadyMs": 357.3999999910593,
+          "loadMs": 754.5,
+          "bytes": 30353
+        }
+      ],
+      "paint": []
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-content-creator/",
+      "fonts": "loaded",
+      "navigation": [
+        {
+          "responseMs": 43.599999994039536,
+          "domReadyMs": 312.09999999403954,
+          "loadMs": 873.2999999970198,
+          "bytes": 18172
+        }
+      ],
+      "paint": []
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-engineer/",
+      "fonts": "loaded",
+      "navigation": [
+        {
+          "responseMs": 41.599999994039536,
+          "domReadyMs": 401.5,
+          "loadMs": 1188.2000000029802,
+          "bytes": 18167
+        }
+      ],
+      "paint": []
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-operations-manager/",
+      "fonts": "loaded",
+      "navigation": [
+        {
+          "responseMs": 42.400000005960464,
+          "domReadyMs": 291.79999999701977,
+          "loadMs": 802.0999999940395,
+          "bytes": 18271
+        }
+      ],
+      "paint": []
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-team-leader/",
+      "fonts": "loaded",
+      "navigation": [
+        {
+          "responseMs": 40.5,
+          "domReadyMs": 290,
+          "loadMs": 837.7999999970198,
+          "bytes": 18149
+        }
+      ],
+      "paint": []
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-sales-agent-chat/",
+      "fonts": "loaded",
+      "navigation": [
+        {
+          "responseMs": 40.79999999701977,
+          "domReadyMs": 304.1000000089407,
+          "loadMs": 828.9000000059605,
+          "bytes": 18471
+        }
+      ],
+      "paint": []
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-support-agent-chat/",
+      "fonts": "loaded",
+      "navigation": [
+        {
+          "responseMs": 42.099999994039536,
+          "domReadyMs": 390.5,
+          "loadMs": 895.5,
+          "bytes": 18388
+        }
+      ],
+      "paint": []
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-sales-agent-voice/",
+      "fonts": "loaded",
+      "navigation": [
+        {
+          "responseMs": 45.6000000089407,
+          "domReadyMs": 353.79999999701977,
+          "loadMs": 839.5999999940395,
+          "bytes": 18400
+        }
+      ],
+      "paint": []
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-support-agent-voice/",
+      "fonts": "loaded",
+      "navigation": [
+        {
+          "responseMs": 0.7999999970197678,
+          "domReadyMs": 265,
+          "loadMs": 815.9000000059605,
+          "bytes": 18443
+        }
+      ],
+      "paint": []
+    }
+  ]
+}

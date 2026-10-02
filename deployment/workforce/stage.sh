@@ -42,7 +42,11 @@ if ! nginx -t; then
 fi
 systemctl reload nginx
 for route in / /virtual-content-creator/ /virtual-engineer/ /virtual-operations-manager/ /virtual-team-leader/ /virtual-sales-agent-chat/ /virtual-support-agent-chat/ /virtual-sales-agent-voice/ /virtual-support-agent-voice/ /robots.txt /sitemap.xml; do
-  code=$(curl -s -o /dev/null -w '%{http_code}' -H 'Host: workforce.alterlabs.in' "http://127.0.0.1$route")
+  for attempt in {1..10}; do
+    code=$(curl -s -o /dev/null -w '%{http_code}' -H 'Host: workforce.alterlabs.in' "http://127.0.0.1$route")
+    [ "$code" = 200 ] && break
+    sleep 1
+  done
   test "$code" = 200
   echo "$code $route"
 done

@@ -1,0 +1,383 @@
+{
+  "verifiedAt": "2026-10-02T23:27:40.059Z",
+  "release": "workforce-dae5813-20261003",
+  "checks": 47,
+  "allMatched": true,
+  "real404": 404,
+  "httpRedirect": 301,
+  "certificateExpires": "2026-12-31",
+  "primaryBackup": "/var/www/workforce-releases/primary-backup-20261002T232642Z",
+  "rows": [
+    {
+      "url": "https://workforce.alterlabs.in/analytics-events.js",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "f4b5bf7578aba3a7c182488b6261d4a3a37ee62bb43537ae11def77a86eafb42",
+      "expectedSha256": "f4b5bf7578aba3a7c182488b6261d4a3a37ee62bb43537ae11def77a86eafb42",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/apple-touch-icon.png",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "6dcb8c243b259b698b58ce206375fc6aac3429dad15300cc8e7dbf2221cf98e6",
+      "expectedSha256": "6dcb8c243b259b698b58ce206375fc6aac3429dad15300cc8e7dbf2221cf98e6",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/figtree-latin-300-normal-BzOoftBZ.woff",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "9a9623cc05e59d0c0ec6963df55ab5e4cfb40b5733004bd957658d777be3ee85",
+      "expectedSha256": "9a9623cc05e59d0c0ec6963df55ab5e4cfb40b5733004bd957658d777be3ee85",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/figtree-latin-300-normal-C9xDoCWy.woff2",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "3a8ad337223d2760675984a6cec88cb26e2de4f2699a0f5b6a3650ba0fa2d2ed",
+      "expectedSha256": "3a8ad337223d2760675984a6cec88cb26e2de4f2699a0f5b6a3650ba0fa2d2ed",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/figtree-latin-400-normal-BD4aNku5.woff",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "e75c125ab5ed44c6e11792d60d8e414ab905b3b46712919d977cf54aaf3e64a2",
+      "expectedSha256": "e75c125ab5ed44c6e11792d60d8e414ab905b3b46712919d977cf54aaf3e64a2",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/figtree-latin-400-normal-g7Dtegnw.woff2",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "8f98dd642986f1fa39c45b89665a57372897c235b36028e0e4a136e43dc5f8ab",
+      "expectedSha256": "8f98dd642986f1fa39c45b89665a57372897c235b36028e0e4a136e43dc5f8ab",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/figtree-latin-500-normal-BWnGEVsr.woff2",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "953a6a4294b1205a1b4d4b9e5529478e8c9e1c5a67a9aa24a551414cd85b6f51",
+      "expectedSha256": "953a6a4294b1205a1b4d4b9e5529478e8c9e1c5a67a9aa24a551414cd85b6f51",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/figtree-latin-500-normal-B_yy1phn.woff",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "19f9249047bdb3ee51cc91472eb7792c899b042b5e76818969e8f12ae5117a79",
+      "expectedSha256": "19f9249047bdb3ee51cc91472eb7792c899b042b5e76818969e8f12ae5117a79",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/figtree-latin-600-normal-BM_oTo4n.woff",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "868dd01020c49c3ac3fab667974b5c0a61ea83b517fb58bdd140ef100ad3f4ef",
+      "expectedSha256": "868dd01020c49c3ac3fab667974b5c0a61ea83b517fb58bdd140ef100ad3f4ef",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/figtree-latin-600-normal-Cv_xCTDl.woff2",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "367d713287918784702563518f59239989da815c80d3c7337686b9816635a08b",
+      "expectedSha256": "367d713287918784702563518f59239989da815c80d3c7337686b9816635a08b",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/figtree-latin-ext-300-normal-DoS2vUKG.woff",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "9a21b3ed130e64f672be9db8679ed055ea7bc6168ed047088677d87879d8bb97",
+      "expectedSha256": "9a21b3ed130e64f672be9db8679ed055ea7bc6168ed047088677d87879d8bb97",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/figtree-latin-ext-300-normal-DwPJS_xR.woff2",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "d2b3a997ee72675318eb50a8887f2901cd9cd8cbb2cc44a788e3db0a3b9aee55",
+      "expectedSha256": "d2b3a997ee72675318eb50a8887f2901cd9cd8cbb2cc44a788e3db0a3b9aee55",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/figtree-latin-ext-400-normal-CXAzuTZb.woff2",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "3f58126100ed4da09c54adcfb8fa9f642be69101d1e18dc4c0a5489ee9b904c5",
+      "expectedSha256": "3f58126100ed4da09c54adcfb8fa9f642be69101d1e18dc4c0a5489ee9b904c5",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/figtree-latin-ext-400-normal-Gbh-3PTk.woff",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "490b9a9482d8c192ef2009bf13ceb657bc28133a45267b31d8ccbacb742ee979",
+      "expectedSha256": "490b9a9482d8c192ef2009bf13ceb657bc28133a45267b31d8ccbacb742ee979",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/figtree-latin-ext-500-normal-BOEJvrb_.woff",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "f9ccde25ff203676fc34fdcdbfdd3e3c595d909268ca7db1d6a4567363e49f99",
+      "expectedSha256": "f9ccde25ff203676fc34fdcdbfdd3e3c595d909268ca7db1d6a4567363e49f99",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/figtree-latin-ext-500-normal-Du0rIuHj.woff2",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "65f0ca6dc939a76e0d63fd7b1fae1039d0a8963d2ce68a00ec20122a452e3b08",
+      "expectedSha256": "65f0ca6dc939a76e0d63fd7b1fae1039d0a8963d2ce68a00ec20122a452e3b08",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/figtree-latin-ext-600-normal-CQqsimlV.woff",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "7af7d708c207b9bb173a1c37c23ec966c1ee965fe59e150f30be3479aded0ab8",
+      "expectedSha256": "7af7d708c207b9bb173a1c37c23ec966c1ee965fe59e150f30be3479aded0ab8",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/figtree-latin-ext-600-normal-DJlfifZj.woff2",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "066f04a662a3b3f740f2e711548003e12c2475375e58a59477aa440c8fd03a17",
+      "expectedSha256": "066f04a662a3b3f740f2e711548003e12c2475375e58a59477aa440c8fd03a17",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/inner-B6vBZ7jj.css",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "adb198dfdf53df6b2a7a0431e7db32cb55ecd8d68b57ec6ecb7c0090ee844ba8",
+      "expectedSha256": "adb198dfdf53df6b2a7a0431e7db32cb55ecd8d68b57ec6ecb7c0090ee844ba8",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/assets/workforce.css",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "2dc97b9ae9d5c1ebfe4815d681385fa9c55c2efeaa33ef71a211446c534653b1",
+      "expectedSha256": "2dc97b9ae9d5c1ebfe4815d681385fa9c55c2efeaa33ef71a211446c534653b1",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/favicon-32.png",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "34ddad6d0f6815683455cba60252ad792ef4e9c9463f9c38caa9c93c815b6341",
+      "expectedSha256": "34ddad6d0f6815683455cba60252ad792ef4e9c9463f9c38caa9c93c815b6341",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/favicon.svg",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "0f9b9bb353143aa105548728b66b478ec3916149033b51b1af4639ac6d2975bc",
+      "expectedSha256": "0f9b9bb353143aa105548728b66b478ec3916149033b51b1af4639ac6d2975bc",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "321b7800c1077c3140da5d0e6417e4d3df9b5f981c853a10418809fbac329c2b",
+      "expectedSha256": "321b7800c1077c3140da5d0e6417e4d3df9b5f981c853a10418809fbac329c2b",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/robots.txt",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "0f41b33155106da39acf34793f9c06980a78f9ddcbc150ac44e90de8709056ae",
+      "expectedSha256": "0f41b33155106da39acf34793f9c06980a78f9ddcbc150ac44e90de8709056ae",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/sitemap.xml",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "4d5a39c94e83b58fc80b632cb82a20b86a77f5433b02f494f302f0ce598481e7",
+      "expectedSha256": "4d5a39c94e83b58fc80b632cb82a20b86a77f5433b02f494f302f0ce598481e7",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-content-creator/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "d0c87089c5dfb0fd552eda042e9199a88874945f9a2d8c092d10d43e0834cc82",
+      "expectedSha256": "d0c87089c5dfb0fd552eda042e9199a88874945f9a2d8c092d10d43e0834cc82",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-engineer/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "1ac51ede2f1892901fa4ede29ac1ab838690b8411af05e66c9b4863ab5ae531a",
+      "expectedSha256": "1ac51ede2f1892901fa4ede29ac1ab838690b8411af05e66c9b4863ab5ae531a",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-operations-manager/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "6e2c6b20f3debace1bf7303495584a19b0f8fb2017893977ca5d71a5179028d1",
+      "expectedSha256": "6e2c6b20f3debace1bf7303495584a19b0f8fb2017893977ca5d71a5179028d1",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-sales-agent-chat/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "1e3bf34b982e478d6d1058dc366c12f3311b5f79077117b03935f0279878d7f5",
+      "expectedSha256": "1e3bf34b982e478d6d1058dc366c12f3311b5f79077117b03935f0279878d7f5",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-sales-agent-voice/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "93eec1d5254dd773bcefee236d3a2b646c75945e7312580a3907ec95e2e4c499",
+      "expectedSha256": "93eec1d5254dd773bcefee236d3a2b646c75945e7312580a3907ec95e2e4c499",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-support-agent-chat/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "3d2deb2e01d1efd2b41e3c6ff2bb76af52b90f7b090ff02048bc54c2e6010a7d",
+      "expectedSha256": "3d2deb2e01d1efd2b41e3c6ff2bb76af52b90f7b090ff02048bc54c2e6010a7d",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-support-agent-voice/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "34c5e8978202a1cf4866cfb86ef9b35d894127654263ba1b919390bbf1007a78",
+      "expectedSha256": "34c5e8978202a1cf4866cfb86ef9b35d894127654263ba1b919390bbf1007a78",
+      "match": true
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-team-leader/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "351394c1a6b014c4183bdf2b90b26ae7ad9168157e4fd905eab27e00dba10321",
+      "expectedSha256": "351394c1a6b014c4183bdf2b90b26ae7ad9168157e4fd905eab27e00dba10321",
+      "match": true
+    },
+    {
+      "url": "https://alterlabs.in/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "ee97cb5fddfc07f60eda8853189d48178c1fe63a3d2194ff59f0eaf0c2e1539e",
+      "expectedSha256": "ee97cb5fddfc07f60eda8853189d48178c1fe63a3d2194ff59f0eaf0c2e1539e",
+      "match": true
+    },
+    {
+      "url": "https://alterlabs.in/products/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "f2d3a0def4b5561e44b382f00f73615712862f7c04881b4eeb932d0a26651160",
+      "expectedSha256": "f2d3a0def4b5561e44b382f00f73615712862f7c04881b4eeb932d0a26651160",
+      "match": true
+    },
+    {
+      "url": "https://alterlabs.in/bns/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "3f3b0479f17020d9ae5a6d4b8021b72ffcd675a67923590fa11a938a127dbfa7",
+      "expectedSha256": "3f3b0479f17020d9ae5a6d4b8021b72ffcd675a67923590fa11a938a127dbfa7",
+      "match": true
+    },
+    {
+      "url": "https://alterlabs.in/solutions/ai-automation/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "7561705275f91e8171c598daacb94d5732a0c898a2985365fd333bcb3ca55af8",
+      "expectedSha256": "7561705275f91e8171c598daacb94d5732a0c898a2985365fd333bcb3ca55af8",
+      "match": true
+    },
+    {
+      "url": "https://alterlabs.in/solutions/business-systems/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "6fdd52a1009f8fc0f0e7b563d6b32c5281fcaf9aaffcfa36cbcc878713ec820e",
+      "expectedSha256": "6fdd52a1009f8fc0f0e7b563d6b32c5281fcaf9aaffcfa36cbcc878713ec820e",
+      "match": true
+    },
+    {
+      "url": "https://alterlabs.in/solutions/ai-chatbot/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "ab857ad5d282ff4f000e4cd247ee995b598f0bb4793357a1f3642fa59a7f7263",
+      "expectedSha256": "ab857ad5d282ff4f000e4cd247ee995b598f0bb4793357a1f3642fa59a7f7263",
+      "match": true
+    },
+    {
+      "url": "https://alterlabs.in/solutions/voice-support/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "20a6acee1e308dd65d22c67ec8b7c59aa0254ce7df9ef4ddd4ffc89be64e867c",
+      "expectedSha256": "20a6acee1e308dd65d22c67ec8b7c59aa0254ce7df9ef4ddd4ffc89be64e867c",
+      "match": true
+    },
+    {
+      "url": "https://alterlabs.in/products/crm/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "80942f19d1f9ed28e238217e4192c1cf21f17b76b756fc72b1a37c2b45832448",
+      "expectedSha256": "80942f19d1f9ed28e238217e4192c1cf21f17b76b756fc72b1a37c2b45832448",
+      "match": true
+    },
+    {
+      "url": "https://alterlabs.in/products/lms/",
+      "status": 200,
+      "expectedStatus": 200,
+      "sha256": "6fbbc0e55a6fbdfef494dff70b3296bd20e0dd94320158ce4795723019c63fd9",
+      "expectedSha256": "6fbbc0e55a6fbdfef494dff70b3296bd20e0dd94320158ce4795723019c63fd9",
+      "match": true
+    },
+    {
+      "url": "https://alterlabs.in/solutions/",
+      "status": 200,
+      "sha256": "a7724a827c7a1bc37b9071df27a36434d2ea44aca9d3f84548221b7ec5a396d1",
+      "expectedSha256": "a7724a827c7a1bc37b9071df27a36434d2ea44aca9d3f84548221b7ec5a396d1",
+      "match": true
+    },
+    {
+      "url": "https://alterlabs.in/about/",
+      "status": 200,
+      "sha256": "3988d6e9852df3992dc721c6fbe45baa99887c9a6f6ef8299a7e12d2e9dec55e",
+      "expectedSha256": "3988d6e9852df3992dc721c6fbe45baa99887c9a6f6ef8299a7e12d2e9dec55e",
+      "match": true
+    },
+    {
+      "url": "https://guruvista.in/",
+      "status": 200,
+      "sha256": "a21f3d395e709a60e7929744b1de1ec7ed44983f6dc9a598a5640835babad38c",
+      "expectedSha256": "a21f3d395e709a60e7929744b1de1ec7ed44983f6dc9a598a5640835babad38c",
+      "match": true
+    },
+    {
+      "url": "https://os.alterlabs.in/",
+      "status": 200,
+      "sha256": "09e8a279e34c021c47c229f0cd177a8fa98280ac1810da398bd86186e73c714b",
+      "expectedSha256": "09e8a279e34c021c47c229f0cd177a8fa98280ac1810da398bd86186e73c714b",
+      "match": true
+    },
+    {
+      "url": "https://demo.alterlabs.in/",
+      "status": 200,
+      "sha256": "70d1882225f0674ca2b5bd4a2c2be2055c31b0fbadb5f5643f9dd5af53565298",
+      "expectedSha256": "70d1882225f0674ca2b5bd4a2c2be2055c31b0fbadb5f5643f9dd5af53565298",
+      "match": true
+    }
+  ]
+}

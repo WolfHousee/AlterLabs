@@ -1,0 +1,70 @@
+{
+  "verifiedAt": "2026-10-02T23:38:50.261Z",
+  "property": "sc-domain:alterlabs.in",
+  "propertyWasExisting": true,
+  "sitemap": {
+    "url": "https://workforce.alterlabs.in/sitemap.xml",
+    "submission": "Sitemap submitted successfully",
+    "attempts": 2,
+    "processingStatus": "Couldn't fetch",
+    "detail": "Sitemap could not be read",
+    "discoveredPages": 0,
+    "publicStatus": 200,
+    "publicContentType": "text/xml",
+    "googlebotUserAgentProbeStatus": 200,
+    "dnsResolvers": [
+      "8.8.8.8",
+      "1.1.1.1"
+    ],
+    "resolvedIPv4": "13.207.247.22"
+  },
+  "indexingRequests": [
+    {
+      "url": "https://workforce.alterlabs.in/",
+      "status": "Indexing requested",
+      "verifiedAt": "2026-10-02T23:29:11.562Z"
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-content-creator/",
+      "status": "Indexing requested",
+      "verifiedAt": "2026-10-02T23:31:01.671Z"
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-engineer/",
+      "status": "Indexing requested",
+      "verifiedAt": "2026-10-02T23:32:02.600Z"
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-operations-manager/",
+      "status": "Indexing requested",
+      "verifiedAt": "2026-10-02T23:33:05.643Z"
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-team-leader/",
+      "status": "Indexing requested",
+      "verifiedAt": "2026-10-02T23:34:03.559Z"
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-sales-agent-chat/",
+      "status": "Indexing requested",
+      "verifiedAt": "2026-10-02T23:34:51.122Z"
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-support-agent-chat/",
+      "status": "Indexing requested",
+      "verifiedAt": "2026-10-02T23:35:13.843Z"
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-sales-agent-voice/",
+      "status": "Indexing requested",
+      "verifiedAt": "2026-10-02T23:36:08.923Z"
+    },
+    {
+      "url": "https://workforce.alterlabs.in/virtual-support-agent-voice/",
+      "status": "Indexing requested",
+      "verifiedAt": "2026-10-02T23:36:55.693Z"
+    }
+  ],
+  "indexedClaim": false,
+  "remaining": "Google sitemap processing has not succeeded. All nine individual URL requests were accepted. No actual indexing is claimed."
+}
