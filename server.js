@@ -155,11 +155,21 @@ async function handleApi(req, res, url) {
 }
 
 function serveStatic(req, res, url) {
-  const requested = url.pathname === '/'
-    ? '/index.html'
-    : url.pathname === '/favicon.ico'
-      ? '/favicon.svg'
-      : decodeURIComponent(url.pathname);
+  const host = String(req.headers.host || '').toLowerCase().split(':')[0];
+  const isShowcaseHost = host === 'showcase.alterlabs.in' || host === 'www.showcase.alterlabs.in';
+  const showcaseAliases = {
+    '/': '/showcase/index.html',
+    '/index.html': '/showcase/index.html',
+    '/robots.txt': '/showcase/robots.txt',
+    '/sitemap.xml': '/showcase/sitemap.xml'
+  };
+  const requested = isShowcaseHost && showcaseAliases[url.pathname]
+    ? showcaseAliases[url.pathname]
+    : url.pathname === '/'
+      ? '/index.html'
+      : url.pathname === '/favicon.ico'
+        ? '/favicon.svg'
+        : decodeURIComponent(url.pathname);
   const filePath = path.resolve(ROOT, `.${requested}`);
   const relativePath = path.relative(ROOT, filePath);
 
